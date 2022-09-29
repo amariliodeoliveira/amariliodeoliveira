@@ -9,14 +9,14 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 ## GitHub Stats
-<div align="left">   
+<div align="center">   
   <a href="https://github.com/amariliodeoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amariliodeoliveira&show_icons=true&bg_color=DEG,264653,197066&title_color=E76F51&text_color=FFFFFF&icon_color=E9C46A&hide_title=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amariliodeoliveira&layout=default&langs_count=7&bg_color=DEG,197066,264653&title_color=E76F51&text_color=FFFFFF&icon_color=E9C46A" />
 </div>
 
 ## Contributions
-<div align="left"> 
+<div align="center"> 
 
 ![Snake animation](https://github.com/amariliodeoliveira/amariliodeoliveira/blob/output/github-contribution-grid-snake.svg)
 
