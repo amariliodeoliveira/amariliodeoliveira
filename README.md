@@ -1,18 +1,19 @@
-# Greetings! 👋 <span>![](https://komarev.com/ghpvc/?username=amariliodeoliveira&color=197066&style=flat&label=Profile+Views)</span>
+# Greetings! 👋 <span>![](https://komarev.com/ghpvc/?username=amariliodeoliveira&color=2b1055&style=flat-square&label=Profile+Views)</span>
 
-- 🧑‍🎓 Information Systems colleger at <a href="https://www.unifanor.edu.br/unifanor">UniFanor Wyden<a/>.
-- 🖥️ Full Stack student at <a href="https://digitalcollege.com.br/">Digital College<a/>.
+- 🧑‍🎓 Information Systems colleger at <a href="https://www.unifanor.edu.br/unifanor" target="_blank" rel="noopener noreferrer">UniFanor Wyden<a/>.
+- 🖥️ Full Stack student at <a href="https://digitalcollege.com.br/" target="_blank" rel="noopener noreferrer">Digital College<a/>.
 
 ## Developing skills
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)</a>
 
 ## GitHub Stats
 <div align="center">
-  <a href="https://github.com/amariliodeoliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amariliodeoliveira&show_icons=true&bg_color=DEG,264653,197066&title_color=E76F51&text_color=FFFFFF&icon_color=E9C46A&custom_title=All-time+Info&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amariliodeoliveira&layout=default&langs_count=7&bg_color=DEG,197066,264653&title_color=E76F51&text_color=FFFFFF&icon_color=E9C46A" />
+  <a href="https://github.com/amariliodeoliveira" target="_blank" rel="noopener noreferrer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amariliodeoliveira&show_icons=true&bg_color=DEG,1c0522,2b1055&title_color=FFF&text_color=FFFFFF&icon_color=E9C46A&custom_title=All-time+Info&include_all_commits=true&count_private=true&hide_border=true&border_radius=0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amariliodeoliveira&layout=default&hide_border=true&border_radius=0&langs_count=7&bg_color=DEG,1c0522,2b1055&title_color=FFF&text_color=FFFFFF&icon_color=E9C46A" />
 </div>
 
 ## Contributions
