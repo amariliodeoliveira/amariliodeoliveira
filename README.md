@@ -29,17 +29,15 @@
 <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank" rel="noopener noreferrer">![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)</a>
 <a href="https://www.canva.com/" target="_blank" rel="noopener noreferrer">![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)</a>
 
-
-
 ## GitHub Stats
 <div align="center">
-  <a href="https://github.com/amariliodeoliveira" target="_blank" rel="noopener noreferrer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amariliodeoliveira&show_icons=true&bg_color=DEG,1c0522,2b1055&title_color=FFF&text_color=FFFFFF&icon_color=E9C46A&custom_title=All-time+Info&include_all_commits=true&count_private=true&hide_border=true&border_radius=0" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amariliodeoliveira&layout=default&hide_border=true&border_radius=0&langs_count=7&bg_color=DEG,1c0522,2b1055&title_color=FFF&text_color=FFFFFF&icon_color=E9C46A" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amariliodeoliveira&show_icons=true&bg_color=DEG,1c0522,2b1055&title_color=FFF&text_color=FFFFFF&icon_color=E9C46A&custom_title=All-time+Info&include_all_commits=true&count_private=true&hide_border=true&border_radius=0)](https://github.com/amariliodeoliveira) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amariliodeoliveira&layout=compact&hide_border=true&border_radius=0&langs_count=7&bg_color=DEG,1c0522,2b1055&title_color=FFF&text_color=FFFFFF&icon_color=E9C46A)](https://github.com/amariliodeoliveira)
+
 </div>
 
 ## Contributions
-<div align="center"> 
+<div align="center">
 
 ![Snake animation](https://github.com/amariliodeoliveira/amariliodeoliveira/blob/output/github-contribution-grid-snake.svg)
 
