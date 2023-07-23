@@ -1,5 +1,11 @@
 # Greetings! 👋 <span>![](https://komarev.com/ghpvc/?username=amariliodeoliveira&color=2b1055&style=flat-square&label=Profile+Views)</span>
 
+I'm a Web Developer and UX/UI designer with knowledge in JavaScript and TypeScript, frameworks and libraries such as React.js with Next.js, as well as software prototyping tools like Figma.
+
+Passionate about technology and software development, I've had experiences with computers since I was 5 years old, having also studied Computer Engineering in the mid-2011.
+
+Originally graduated and post-graduated in Management and Business in Gastronomy, I went through a recent career transition that brought me back to the area I love and where I constantly seek to evolve.
+
 - 🧑‍🎓 Information Systems colleger at <a href="https://www.unifanor.edu.br/unifanor" target="_blank" rel="noopener noreferrer">UniFanor Wyden<a/>.
 - 🖥️ Full Stack student at <a href="https://digitalcollege.com.br/" target="_blank" rel="noopener noreferrer">Digital College<a/>.
 
@@ -33,12 +39,5 @@
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amariliodeoliveira&show_icons=true&bg_color=DEG,1c0522,2b1055&title_color=FFF&text_color=FFFFFF&icon_color=E9C46A&custom_title=All-time+Info&include_all_commits=true&count_private=true&hide_border=true&border_radius=0)](https://github.com/amariliodeoliveira) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amariliodeoliveira&layout=compact&hide_border=true&border_radius=0&langs_count=7&bg_color=DEG,1c0522,2b1055&title_color=FFF&text_color=FFFFFF&icon_color=E9C46A)](https://github.com/amariliodeoliveira)
-
-</div>
-
-## Contributions
-<div align="center">
-
-![Snake animation](https://github.com/amariliodeoliveira/amariliodeoliveira/blob/output/github-contribution-grid-snake.svg)
 
 </div>
