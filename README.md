@@ -1,10 +1,10 @@
 # Greetings! 👋 <span>![](https://komarev.com/ghpvc/?username=amariliodeoliveira&color=2b1055&style=flat-square&label=Profile+Views)</span>
 
-I'm a Web Developer and UX/UI designer with knowledge in JavaScript and TypeScript, frameworks and libraries such as React.js with Next.js, as well as software prototyping tools like Figma.
+I've been passionate about technology for as long as I can remember, but it was in my early teens that I first wrote a 'Hello World' — a moment that ignited a deep curiosity about every aspect of the tech world.
 
-Passionate about technology and software development, I've had experiences with computers since I was 5 years old, having also studied Computer Engineering in the mid-2011.
+With 2 years of professional experience in software development and over 5 years of academic experience, I've had the opportunity to learn and work with a broad range of technologies, always eagering to learn more and tackle new challenges.
 
-Originally graduated and post-graduated in Management and Business in Gastronomy, I went through a recent career transition that brought me back to the area I love and where I constantly seek to evolve.
+Oh, by the way: I'm also trained and post-graduated in Gastronomy, my second passion, which has helped me develop valuable soft skills.
 
 - 🧑‍🎓 Information Systems colleger at <a href="https://www.unifanor.edu.br/unifanor" target="_blank" rel="noopener noreferrer">UniFanor Wyden<a/>.
 - 🖥️ Full Stack student at <a href="https://digitalcollege.com.br/" target="_blank" rel="noopener noreferrer">Digital College<a/>.
