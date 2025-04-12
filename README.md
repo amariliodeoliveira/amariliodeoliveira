@@ -1,4 +1,4 @@
-# Greetings! 👋 <span>![](https://komarev.com/ghpvc/?username=amariliodeoliveira&color=2b1055&style=flat-square&label=Profile+Views)</span>
+# Greetings! 👋 <span>![](https://komarev.com/ghpvc/?username=amariliodeoliveira&color=F68380&style=flat-square&label=Profile+Views)</span>
 
 I'm a software developer with a strong academic background, a passion for clean code, and — plot twist — a post-grad in Gastronomy 🍳. I like to build things that work well and don’t burn (neither in the kitchen nor in production).
 
@@ -31,6 +31,6 @@ I'm a software developer with a strong academic background, a passion for clean 
 ## GitHub Stats
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amariliodeoliveira&show_icons=true&bg_color=DEG,1c0522,2b1055&title_color=FFF&text_color=FFFFFF&icon_color=E9C46A&custom_title=All-time+Info&include_all_commits=true&count_private=true&hide_border=true&border_radius=0)](https://github.com/amariliodeoliveira) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amariliodeoliveira&layout=compact&hide_border=true&border_radius=0&langs_count=7&bg_color=DEG,1c0522,2b1055&title_color=FFF&text_color=FFFFFF&icon_color=E9C46A)](https://github.com/amariliodeoliveira)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amariliodeoliveira&show_icons=true&bg_color=DEG,18477B,F68380&title_color=FFF&text_color=FFFFFF&icon_color=E9C46A&custom_title=All-time+Info&include_all_commits=true&count_private=true&hide_border=true&border_radius=0)](https://github.com/amariliodeoliveira) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amariliodeoliveira&layout=compact&hide_border=true&border_radius=0&langs_count=7&bg_color=DEG,18477B,F68380&title_color=FFF&text_color=FFFFFF&icon_color=E9C46A)](https://github.com/amariliodeoliveira)
 
 </div>
