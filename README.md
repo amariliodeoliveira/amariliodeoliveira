@@ -1,5 +1,11 @@
 # Greetings! 👋 <span>![](https://komarev.com/ghpvc/?username=amariliodeoliveira&color=F68380&style=flat-square&label=Profile+Views)</span>
 
+<p align=”center”>
+
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQGlHKZwXGK1pQ/profile-displaybackgroundimage-shrink_350_1400/B4DZWfCrSkG4Ac-/0/1742130036081?e=1749686400&v=beta&t=KoD82UWCht8ibm-94OzWc_lPb6vlghVzFI0Z1tICFfU" alt="my banner">
+
+</p>
+
 I'm a software developer with a strong academic background, a passion for clean code, and — plot twist — a post-grad in Gastronomy. I like to build things that work well and don’t burn (neither in the kitchen nor in production).
 
 - 🖥️ Frontend Developer living in Lisbon, Portugal.
