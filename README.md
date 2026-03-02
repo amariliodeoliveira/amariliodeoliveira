@@ -2,7 +2,7 @@
 
 <p align=”center”>
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGlHKZwXGK1pQ/profile-displaybackgroundimage-shrink_350_1400/B4DZWfCrSkG4Ac-/0/1742130036081?e=1757548800&v=beta&t=g2Xqt7wUrXUUeGZGSRNhF7Dzj2p9Ufm7w427_z3GEY0">
+<img src="https://www.amarilio.tech/img/laptop-with-glowing-screen-table-dark-top-view-copy-space.jpg">
 
 </p>
 
