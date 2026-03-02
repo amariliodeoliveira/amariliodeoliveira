@@ -8,7 +8,7 @@
 
 I'm a software developer with a strong academic background, a passion for clean code, and — plot twist — a post-grad in Gastronomy. I like to build things that work well and don’t burn (neither in the kitchen nor in production).
 
-- 🖥️ Frontend Developer living in Lisbon, Portugal.
+- 🖥️ Frontend Software Engineer living in Fortaleza, Ceará, Brazil.
 - 🧑‍🎓 Information Systems colleger at <a href="https://www.unifanor.edu.br/unifanor" target="_blank" rel="noopener noreferrer">UniFanor Wyden<a/>.
 
 ## Main Stacks
